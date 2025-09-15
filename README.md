@@ -27,5 +27,6 @@
 ### 🌐 Conecta conmigo
 - 💼 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kevin-martinez-ojeda)
 - 📩 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:kevinmartinez130605@gmail.com)
+- 🌍 [![Website](https://img.shields.io/badge/Website-000000?style=flat&logo=google-chrome&logoColor=white)](https://kevmart.framer.website/)
 
 ---
